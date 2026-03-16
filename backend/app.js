@@ -11,7 +11,7 @@ const PRODUCTS = [
     category: "Кухонная техника",
     price: 2599,
     description: "Класический, а главное удобный заварной чайник",
-    image: "https://imgcdn.stablediffusionweb.com/2026/3/16/9c2d5d60-daa2-44cf-8656-71ffb419a310.webp"
+    image: "https://i.imgur.com/FR4xlPp.png"
   },
   {
     id: 2,
@@ -19,7 +19,7 @@ const PRODUCTS = [
     category: "Гаджеты",
     price: 4599,
     description: "Стильные наушники для музыки и звонков. Фиолетовый лимит.",
-    image: "https://imgcdn.stablediffusionweb.com/2026/3/16/361bf4b0-e1db-44b0-8314-ba823726d000.webp" // purple headphones
+    image: "https://i.imgur.com/ClD5gVS.png" // purple headphones
   },
   {
     id: 3,
@@ -27,7 +27,7 @@ const PRODUCTS = [
     category: "Дом и уют",
     price: 1490,
     description: "Ультрамягкая подушка с эффектом памяти в фиолетовом чехле.",
-    image: "https://imgcdn.stablediffusionweb.com/2026/3/16/d400faa6-cc4f-4175-a1f6-b32b24787add.webp" // purple pillow
+    image: "https://i.imgur.com/XmBXkGy.png" // purple pillow
   },
   {
     id: 4,
@@ -35,7 +35,7 @@ const PRODUCTS = [
     category: "Гаджеты",
     price: 3390,
     description: "Умные часы в фиолетовом корпусе. Все функции для спорта и жизни.",
-    image: "https://imgcdn.stablediffusionweb.com/2026/3/16/8787f302-787b-46b3-a548-5d34b90f959f.webp" // smartwatch
+    image: "https://i.imgur.com/MmjZnZa.png" // smartwatch
   },
   {
     id: 5,
@@ -43,7 +43,7 @@ const PRODUCTS = [
     category: "Товары для дома",
     price: 840,
     description: "Фиолетовая термокружка для ваших любимых напитков.",
-    image: "https://kitfort.ru/upload/resize_cache/webp/upload/iblock/3f3/1xx6s42hza7ak06j951tvoarurxurjd9.webp" // purple mug
+    image: "https://i.imgur.com/EFbMlFb.png" // purple mug
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ const PRODUCTS = [
     category: "Аксессуары",
     price: 2550,
     description: "Городской рюкзак фиолетового цвета. Вместительный и стильный.",
-    image: "https://imgcdn.stablediffusionweb.com/2026/3/16/cd124cd2-8865-4379-afa5-4467a1df10c1.webp" // purple backpack
+    image: "https://i.imgur.com/nKSkyAI.png" // purple backpack
   },
   {
     id: 7,
@@ -59,7 +59,7 @@ const PRODUCTS = [
     category: "Товары для дома",
     price: 499,
     description: "Комплект мягких полотенец фиолетового оттенка.",
-    image: "https://imgcdn.stablediffusionweb.com/2026/3/16/ecfef8a4-d680-4181-9985-775395134f25.webp" // towels purple
+    image: "https://i.imgur.com/6mfQd2W.png" // towels purple
   },
   {
     id: 8,
@@ -67,7 +67,7 @@ const PRODUCTS = [
     category: "Гаджеты",
     price: 2990,
     description: "Планшет для творчества и работы, фиолетовый корпус.",
-    image: "https://imgcdn.stablediffusionweb.com/2026/3/16/dd3ea4fb-f3b1-498c-b723-1cd339b8afb6.webp" // graphics tablet
+    image: "https://i.imgur.com/bc0A3fp.png" // graphics tablet
   }
 ];
 let nextProductId = 9;
